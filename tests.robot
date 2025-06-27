@@ -7,9 +7,9 @@ ${USERNAME}       standard_user
 ${PASSWORD}       secret_sauce
 ${INVALID_PASSWORD}    senha_errada
 ${BROWSER}        Chrome
-${FIRST_NAME}        Hugo
-${LAST_NAME}         Oliveira
-${POSTAL_CODE}       70390045
+${FIRST_NAME}        Marco
+${LAST_NAME}         Borges
+${POSTAL_CODE}       70390034
 
 *** Test Cases ***
 Login Com Sucesso
